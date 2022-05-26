@@ -1,0 +1,7 @@
+<u>27/09/2019</u>
+
+O Centro de Inovação e Arquitetura (CIA) informa que novos projetos são criados seguindo a metodologia SCRUM e utilizando-se o Git como repositório de controle de versão. A adoção do SCRUM é obrigatória para novos projetos por determinação do DTI e o uso do Git, em substituição ao TFVC _(Team Foundation Version Control)_, tem sido recomendado por este Centro e pela Microsoft. As informações para entendimento dessa adoção encontram-se disponíveis nos documentos “Principais Recursos Git 1.pdf” e “Guia_GIT.doc” no link [Guias e Manuais](http://etc.intra.fazenda.sp.gov.br/sites/suporte_desenv/Documentos%20Compartilhados/Forms/AllItems.aspx?RootFolder=%2fsites%2fsuporte%5fdesenv%2fDocumentos%20Compartilhados%2fGuias%20e%20Manuais&FolderCTID=0x012000003F9C2FED0F0E4193DDB17576FAA300).
+
+Considerando que está em andamento a Migração do TFS para o Azure DevOps Server 2019, solicitamos a todos que ainda não migraram seus projetos para o modelo SCRUM/Git que o façam assim que possível. Para isso, é necessária _a abertura de PBI (texto atualizado em 07/2020)_ para a criação de um novo projeto conforme instruções em _(link atualizado em 06/2021)_ :  <a href="https://ads.intra.fazenda.sp.gov.br/tfs/ADMIN/Suporte_DevOps/_wiki/wikis/Suporte_DevOps.wiki/125/Cria%C3%A7%C3%A3o-de-um-novo-projeto-no-ADS" target="_blank"> Criação de um novo projeto no ADS</a>.
+
+Caso sejam necessários esclarecimentos adicionais após a leitura do guia, entre em contato através do e-mail [dti_cia_nsd@fazenda.sp.gov.br](mailto:dti_cia_nsd@fazenda.sp.gov.br). 

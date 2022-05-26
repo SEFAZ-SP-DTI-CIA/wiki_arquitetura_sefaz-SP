@@ -1,0 +1,1 @@
+[Queries SQL usadas para teste do DW MDF-e](https://ads.intra.fazenda.sp.gov.br/tfs/ADMIN/Wiki_Arquitetura/_wiki/wikis/Wiki_Arquitetura.wiki/272/Queries-SQL-usadas-para-teste-do-DW-MDF-e%E2%80%8B)

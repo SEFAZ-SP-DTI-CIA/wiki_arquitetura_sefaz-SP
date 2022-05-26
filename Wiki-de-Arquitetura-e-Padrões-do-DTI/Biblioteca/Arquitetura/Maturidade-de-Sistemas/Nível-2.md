@@ -1,0 +1,4 @@
+[Análise estática de código](/Wiki-de-Arquitetura-e-Padrões-do-DTI/Biblioteca/Arquitetura/Maturidade-de-Sistemas/Nível-2/analise%2Destatica%2Dde%2Dcodigo)
+[Manter documentação atualizada](/Wiki-de-Arquitetura-e-Padrões-do-DTI/Biblioteca/Arquitetura/Maturidade-de-Sistemas/Nível-2/Manter-a-documentação-atualizada)
+[Testes unitários automatizados](/Wiki-de-Arquitetura-e-Padrões-do-DTI/Biblioteca/Arquitetura/Maturidade-de-Sistemas/Nível-2/Testes-unitários-automatizados)
+[Entrega Contínua ( CD ) ](/Wiki-de-Arquitetura-e-Padrões-do-DTI/Biblioteca/Arquitetura/Maturidade-de-Sistemas/Nível-2/Entrega-Contínua-\(CD\))
